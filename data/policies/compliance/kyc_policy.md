@@ -1,13 +1,21 @@
-# Chính sách KYC (Xác minh danh tính)
+---
+title: "Chính sách KYC - Xác minh khách hàng"
+effective_date: "2024-03-01"
+---
 
-## Giấy tờ bắt buộc
-- CCCD/CMND còn hiệu lực
-- Ảnh chân dung khi mở tài khoản online
+## Giấy tờ tùy thân
 
-## Điều kiện mở tài khoản
-- Tuổi từ 18 trở lên (từ 15-18 cần có người giám hộ)
-- Quốc tịch Việt Nam hoặc người nước ngoài có giấy phép cư trú
+### Khách hàng cá nhân
+- CCCD/CMND còn hiệu lực (bắt buộc)
+- Hộ chiếu (chấp nhận nếu còn hạn trên 6 tháng)
+- Giấy tờ phải đối chiếu trực tiếp với khách hàng
 
-## Thời gian xử lý
-- Tại quầy: 15-30 phút
-- Online: 1-3 ngày làm việc
+### Khách hàng doanh nghiệp
+- Giấy phép kinh doanh (bản sao công chứng)
+- Giấy tờ tùy thân của người đại diện pháp luật
+- Biên bản họp HĐQT ủy quyền giao dịch (nếu ủy quyền)
+
+## Xác minh thông tin
+- Xác minh địa chỉ qua hóa đơn điện/nước (không quá 3 tháng)
+- Xác minh thu nhập qua sao kê ngân hàng hoặc hợp đồng lao động
+- Đối với giao dịch trên 400 triệu VND: xác minh nguồn tiền

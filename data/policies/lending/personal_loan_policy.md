@@ -1,26 +1,23 @@
-# Chính sách cho vay cá nhân
+---
+title: "Chính sách cho vay cá nhân"
+effective_date: "2024-01-01"
+---
 
 ## Điều kiện vay
-- Độ tuổi từ 18 đến 65 tuổi
-- Thu nhập tối thiểu 5 triệu đồng/tháng
-- Có hợp đồng lao động hoặc chứng minh thu nhập
-- Không có nợ xấu trong 12 tháng gần nhất
+
+### Thu nhập tối thiểu
+- Khách hàng phải có thu nhập ròng tối thiểu 10 triệu VND/tháng
+- Thu nhập được xác nhận qua sao kê lương 3 tháng gần nhất
+
+### Độ tuổi
+- Từ 22 đến 60 tuổi tại thời điểm vay
+- Tối đa 65 tuổi tại thời điểm đáo hạn
+
+## Hạn mức cho vay
+- Tối đa 500 triệu VND cho vay tín chấp
+- Tối đa 70% giá trị tài sản đảm bảo cho vay thế chấp
+- Thời hạn vay: 12 - 60 tháng
 
 ## Lãi suất
-- Lãi suất cố định: 9.5%/năm trong 12 tháng đầu
-- Lãi suất thả nổi: lãi suất cơ sở + 3.5%/năm từ tháng thứ 13
-
-## Hạn mức vay
-- Tối thiểu: 10 triệu đồng
-- Tối đa: 500 triệu đồng
-- Không vượt quá 10 lần thu nhập tháng
-
-## Thời hạn vay
-- Ngắn hạn: 6 - 12 tháng
-- Trung hạn: 13 - 36 tháng
-- Dài hạn: 37 - 60 tháng
-
-## Hồ sơ cần thiết
-- CCCD bản gốc
-- Hợp đồng lao động hoặc xác nhận thu nhập
-- Sao kê tài khoản 3 tháng gần nhất
+- Lãi suất cố định: 8.5%/năm (12 tháng đầu)
+- Lãi suất thả nổi: lãi suất tiết kiệm 12 tháng + 3.5%/năm
